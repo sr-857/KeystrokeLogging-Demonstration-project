@@ -25,7 +25,7 @@ import ScreenshotUploader from './components/ScreenshotUploader';
 import AwarenessNotes from './components/AwarenessNotes';
 
 const App = () => {
-  console.log('JalRakshak App Mounted');
+  console.log('Keystroke Logging App Mounted');
   // --- State Management ---
   const [isLogging, setIsLogging] = useState(false);
   const [hasConsent, setHasConsent] = useState(false);
