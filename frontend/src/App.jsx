@@ -10,7 +10,8 @@ import {
   Lock,
   User,
   LayoutDashboard,
-  FileText
+  FileText,
+  Shield
 } from 'lucide-react';
 import { format } from 'date-fns';
 
