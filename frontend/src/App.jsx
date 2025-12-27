@@ -25,6 +25,7 @@ import ScreenshotUploader from './components/ScreenshotUploader';
 import AwarenessNotes from './components/AwarenessNotes';
 
 const App = () => {
+  console.log('JalRakshak App Mounted');
   // --- State Management ---
   const [isLogging, setIsLogging] = useState(false);
   const [hasConsent, setHasConsent] = useState(false);
@@ -162,7 +163,7 @@ const App = () => {
   );
 
   return (
-    <div className="min-h-screen p-4 md:p-8 animate-slide-up">
+    <div className="min-h-screen p-4 md:p-8">
       {!hasConsent && <ConsentBanner onConsent={() => setHasConsent(true)} />}
 
       <div className={`max-w-7xl mx-auto space-y-8 ${!hasConsent ? 'blur-sm pointer-events-none' : ''} transition-all duration-700`}>
