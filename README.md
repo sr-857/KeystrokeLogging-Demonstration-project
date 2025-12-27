@@ -1,4 +1,4 @@
-# 🛡️Keystroke Logging Demonstration Dashboard
+# 🛡️Keystroke Logging Dashboard
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)](https://reactjs.org/)
