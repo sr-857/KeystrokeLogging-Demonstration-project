@@ -176,7 +176,7 @@ const App = () => {
                 <Terminal className="w-8 h-8 text-cyber-neon" />
               </div>
               <h1 className="text-3xl font-black tracking-tight text-white uppercase">
-                JalRakshak <span className="text-cyber-neon">Security Lab</span>
+                Keystroke <span className="text-cyber-neon">Logging</span>
               </h1>
             </div>
             <div className="flex items-center gap-4 text-slate-400 text-sm ml-11">
@@ -268,7 +268,7 @@ const App = () => {
 
         {/* Footer */}
         <footer className="mt-16 pt-8 border-t border-slate-800/50 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-xs font-bold uppercase tracking-widest">
-          <p>© 2025 JalRakshak Security Lab Initiative</p>
+          <p>© 2025 Keystroke Logging Initiative</p>
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-1.5"><Shield className="w-3.5 h-3.5" /> Ethical Demo</span>
             <span className="flex items-center gap-1.5"><Lock className="w-3.5 h-3.5" /> Local Only</span>

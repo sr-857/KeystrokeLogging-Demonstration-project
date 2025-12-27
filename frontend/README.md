@@ -1,6 +1,6 @@
-# 🌐 JalRakshak Frontend Dashboard
+# 🌐 Keystroke Logging Dashboard
 
-This directory contains the React-based web dashboard for the **JalRakshak-Keylog-Security-Lab**.
+This directory contains the React-based web dashboard for the **Keystroke Logging** project.
 
 ## 🎨 Design Philosophy
 The dashboard is designed with a **Cyber-Noir** aesthetic, prioritizing visual excellence and interactive feedback.
